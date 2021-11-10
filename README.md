@@ -1,2 +1,2 @@
-# Deposition
-This repo will populated with lots of fancy checks. 
+# Use a Pre-trained Image Classifier to Identify Dog Breeds
+This repo will Use a Pre-trained Image Classifier to Identify Dog Breeds
